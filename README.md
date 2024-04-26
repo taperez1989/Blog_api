@@ -1,6 +1,6 @@
 # Blog_api
 
-Link to deployed sit:
+Link to deployed sit:https://taperez1989.github.io/Blog_api/
 
 This weeks challenge was to create a multiple pages for a blog post site. For this project it was designed to give me a better idea of what creating a project would be like in a real world scenario. I needed to create the page without any starter code and use javascript to enhance the pages capabilities.
 
